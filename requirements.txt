@@ -1,0 +1,9 @@
+h5py
+jupyter
+Keras
+numpy
+Pillow
+scikit-learn
+scipy
+tensorflow
+tqdm
